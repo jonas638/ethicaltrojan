@@ -1,0 +1,5 @@
+Operating System: macOS Catalina 10.15.7
+Machine Hardware: x86_64
+Processor: Intel Core i5-6300U, 2 cores, 800.0 MHz
+Architecture: 64bit
+MAC: 70-F1-A1-4C-98-50
