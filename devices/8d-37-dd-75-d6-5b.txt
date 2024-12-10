@@ -1,5 +1,5 @@
 Operating System: Linux #1 SMP PREEMPT_DYNAMIC Fri, 06 Dec 2024 11:15:43 +0000
 Machine Hardware: 64bit
-Processor: , 4 cores, 750.0833749999999 MHz
+Processor: , 4 cores, 799.9856249999999 MHz
 Architecture: 64bit
 MAC: 8d:37:dd:75:d6:5b
