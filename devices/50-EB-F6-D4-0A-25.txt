@@ -1,0 +1,5 @@
+"Operating System": "Windows 10 10.0.19041",
+"Machine Hardware": "AMD64",
+"Processor": "AMD Ryzen 7 3700X 8-Core Processor, 8 cores, 3400 MHz",
+"Architecture": "64bit",
+"MAC": "50-EB-F6-D4-0A-25"
