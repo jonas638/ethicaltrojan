@@ -1,1 +1,1 @@
- print(f"fuckinghell")
+print(f"fuckinghell")
