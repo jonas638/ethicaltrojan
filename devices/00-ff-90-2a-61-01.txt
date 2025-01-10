@@ -1,0 +1,5 @@
+Operating System: Windows 10.0.26100
+Machine Hardware: 64bit
+Processor: AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD, 8 cores, 2901.0 MHz
+Architecture: 64bit
+MAC: 00-ff-90-2a-61-01
