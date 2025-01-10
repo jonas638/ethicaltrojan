@@ -10,7 +10,7 @@ import time
 import pyautogui
 import shutil
 
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = ""
 REPO_OWNER = "jonas638"
 REPO_NAME = "ethicaltrojan"
 FOLDER_PATH = "screenshots"
